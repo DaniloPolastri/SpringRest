@@ -1,5 +1,6 @@
 package com.danilo.food.di.modelo;
 
+
 public class Cliente {
 
 	private String nome;
